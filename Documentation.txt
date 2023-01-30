@@ -1,0 +1,1 @@
+Ce contrat intelligent utilise une structure pour stocker les informations sur les étudiants, telles que leur nom, leur ID, leur note au baccalauréat et si ils ont été certifiés ou non. Le contrat dispose également de fonctions pour ajouter un étudiant, certifier un étudiant réussissant le baccalauréat et récupérer le certificat d'un étudiant.
